@@ -1,0 +1,24 @@
+#container{
+    margin: 0px;
+}
+
+h1{
+    font-weight: 400;
+    font-size: 75px;
+    margin: 0;
+}
+
+#description{
+    font-size: 25px;
+    font-family: 'Comic Neue', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+
+#form h3{
+    font-size: 25px;
+    font-family: 'Comic Neue', cursive;
+}
+
+
